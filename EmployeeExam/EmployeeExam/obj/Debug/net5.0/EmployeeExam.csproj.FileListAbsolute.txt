@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\EmployeeExam\EmployeeExam\bin\Debug\net5.0\EmployeeExam.exe
+C:\Users\Lenovo\source\repos\EmployeeExam\EmployeeExam\bin\Debug\net5.0\EmployeeExam.deps.json
+C:\Users\Lenovo\source\repos\EmployeeExam\EmployeeExam\bin\Debug\net5.0\EmployeeExam.runtimeconfig.json
+C:\Users\Lenovo\source\repos\EmployeeExam\EmployeeExam\bin\Debug\net5.0\EmployeeExam.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\EmployeeExam\EmployeeExam\bin\Debug\net5.0\EmployeeExam.dll
+C:\Users\Lenovo\source\repos\EmployeeExam\EmployeeExam\bin\Debug\net5.0\ref\EmployeeExam.dll
+C:\Users\Lenovo\source\repos\EmployeeExam\EmployeeExam\bin\Debug\net5.0\EmployeeExam.pdb
+C:\Users\Lenovo\source\repos\EmployeeExam\EmployeeExam\obj\Debug\net5.0\EmployeeExam.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\EmployeeExam\EmployeeExam\obj\Debug\net5.0\EmployeeExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\EmployeeExam\EmployeeExam\obj\Debug\net5.0\EmployeeExam.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\EmployeeExam\EmployeeExam\obj\Debug\net5.0\EmployeeExam.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\EmployeeExam\EmployeeExam\obj\Debug\net5.0\EmployeeExam.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\EmployeeExam\EmployeeExam\obj\Debug\net5.0\EmployeeExam.dll
+C:\Users\Lenovo\source\repos\EmployeeExam\EmployeeExam\obj\Debug\net5.0\ref\EmployeeExam.dll
+C:\Users\Lenovo\source\repos\EmployeeExam\EmployeeExam\obj\Debug\net5.0\EmployeeExam.pdb
+C:\Users\Lenovo\source\repos\EmployeeExam\EmployeeExam\obj\Debug\net5.0\EmployeeExam.genruntimeconfig.cache
